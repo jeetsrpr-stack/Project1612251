@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MindSync AI</string>
+    
+    <!-- Welcome Screen -->
+    <string name="welcome_title">Welcome to MindSync AI</string>
+    <string name="welcome_subtitle">Your intelligent personal assistant</string>
+    <string name="get_started">Get Started</string>
+    
+    <!-- Permissions Screen -->
+    <string name="permissions_title">Permissions Required</string>
+    <string name="permissions_subtitle">MindSync needs these permissions to work</string>
+    <string name="permission_sms">SMS Access</string>
+    <string name="permission_notifications">Notification Access</string>
+    <string name="permission_contacts">Contacts Access</string>
+    <string name="permission_bluetooth">Bluetooth Access</string>
+    <string name="grant_permissions">Grant Permissions</string>
+    <string name="continue_btn">Continue</string>
+    
+    <!-- Profile Setup -->
+    <string name="profile_setup_title">Set Up Your Profile</string>
+    <string name="name_hint">Your Name</string>
+    <string name="save_profile">Save Profile</string>
+    
+    <!-- Gmail Connect -->
+    <string name="gmail_connect_title">Connect Gmail Accounts</string>
+    <string name="add_gmail_account">Add Gmail Account</string>
+    <string name="connected_accounts">Connected Accounts</string>
+    
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="priority_items">Priority Items</string>
+    <string name="recent_activity">Recent Activity</string>
+    
+    <!-- Chat -->
+    <string name="chat_title">AI Assistant</string>
+    <string name="chat_input_hint">Ask me anything...</string>
+    <string name="send">Send</string>
+    
+    <!-- Notifications -->
+    <string name="notifications_title">Notifications</string>
+    <string name="no_notifications">No notifications yet</string>
+    
+    <!-- Communications -->
+    <string name="communications_title">Communications</string>
+    <string name="emails">Emails</string>
+    <string name="messages">Messages</string>
+    
+    <!-- Profile -->
+    <string name="profile_title">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="biometric_auth">Biometric Authentication</string>
+    <string name="galaxy_buds">Galaxy Buds Integration</string>
+    <string name="notifications_settings">Notifications</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="cancel">Cancel</string>
+</resources>
